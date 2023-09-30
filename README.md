@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-   <a href="https://github.com/auladev">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=auladev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auladev&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/victhurshop">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victhurshop&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victhurshop&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
